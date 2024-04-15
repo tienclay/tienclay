@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning backend and distributed system<br>📫 How to reach me darkclay169@gmail.com
+<br>🌱 I’m currently learning backend and distributed system<br>📫 How to reach me tienclay.dev@gmail.com
 
 
 ## 🌐 Socials:
